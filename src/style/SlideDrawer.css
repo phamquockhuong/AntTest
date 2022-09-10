@@ -1,0 +1,37 @@
+.side-drawer {
+    /* background-color: red;
+    color: #fff; */
+    position: relative;
+    z-index: 1;
+    animation-name: fadeInRight;
+    animation-duration: 0.75s;
+    animation-delay: 0s, 1s;
+    animation-fill-mode: both;
+}
+
+.open {
+    /* background-color: rgb(0, 0, 255);
+    color: #fff; */
+    position: relative;
+    z-index: 1;
+    animation-name: fadeInLeft;
+    animation-duration: 0.75s;
+    animation-delay: 0s, 1s;
+    animation-fill-mode: both;
+}
+
+
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        transform: translate3d(100%, 0, 0);
+    }
+}
+
+@keyframes fadeInLeft {
+    0% {
+        opacity: 0;
+        transform: translate3d(100%, 0, 0);
+    }
+
+}

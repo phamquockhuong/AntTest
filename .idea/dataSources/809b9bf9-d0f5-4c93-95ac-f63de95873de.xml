@@ -142,11 +142,11 @@
       <DataType>ObjectId|12s</DataType>
       <Position>2</Position>
     </column>
-    <column id="44" parent="11" name="technology_interest_area">
+    <column id="44" parent="11" name="user_type">
       <DataType>String|12s</DataType>
       <Position>3</Position>
     </column>
-    <column id="45" parent="11" name="user_type">
+    <column id="45" parent="11" name="technology_interest_area">
       <DataType>String|12s</DataType>
       <Position>3</Position>
     </column>

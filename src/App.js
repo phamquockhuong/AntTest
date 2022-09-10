@@ -1,11 +1,14 @@
 import './App.css';
+import Navarvar from './components/header/headerTop/Navarbar';
+import ContentBody from './components/body/ContentBody';
+import Footer from './components/footer/Footer';
 
-function App({num1, num2}) {
+function App() {
   return (
-    <div>
-      <h1 className="text-amber-800 text-2xl font-bold">
-          {num1}+{num2} = {num1+num2}
-      </h1>
+    <div className="App">
+      <Navarvar />
+      <ContentBody />
+      <Footer />
     </div>
   );
 }

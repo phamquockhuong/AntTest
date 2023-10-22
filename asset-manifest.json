@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phamquockhuong.github.io/AntTest/static/css/main.181effec.css",
+    "main.js": "/phamquockhuong.github.io/AntTest/static/js/main.8a465e2e.js",
+    "index.html": "/phamquockhuong.github.io/AntTest/index.html",
+    "main.181effec.css.map": "/phamquockhuong.github.io/AntTest/static/css/main.181effec.css.map",
+    "main.8a465e2e.js.map": "/phamquockhuong.github.io/AntTest/static/js/main.8a465e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181effec.css",
+    "static/js/main.8a465e2e.js"
+  ]
+}

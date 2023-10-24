@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AntTest/static/css/main.181effec.css",
-    "main.js": "/AntTest/static/js/main.8a465e2e.js",
+    "main.js": "/AntTest/static/js/main.83079dc4.js",
     "index.html": "/AntTest/index.html",
     "main.181effec.css.map": "/AntTest/static/css/main.181effec.css.map",
-    "main.8a465e2e.js.map": "/AntTest/static/js/main.8a465e2e.js.map"
+    "main.83079dc4.js.map": "/AntTest/static/js/main.83079dc4.js.map"
   },
   "entrypoints": [
     "static/css/main.181effec.css",
-    "static/js/main.8a465e2e.js"
+    "static/js/main.83079dc4.js"
   ]
 }
